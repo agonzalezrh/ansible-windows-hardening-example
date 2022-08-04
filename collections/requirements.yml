@@ -3,3 +3,4 @@ collections:
   - kubernetes.core
   - community.okd
   - azure.azcollection
+  - community.general
